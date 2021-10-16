@@ -1,2 +1,2 @@
 # ipinfo
-ipinfo.io ve yandex Maps JavaScript API kullanılarak yapılmış, ip bilgilerini veren çok basit bir arayüz.
+ipinfo ( https://ipinfo.io ) ve yandex Maps JavaScript API ( https://yandex.com.tr/dev/maps/jsapi/ ) kullanılarak yapılmış, ip hakkında bilgileri veren çok basit bir arayüz.
